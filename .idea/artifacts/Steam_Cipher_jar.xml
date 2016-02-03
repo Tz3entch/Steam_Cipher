@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Steam Cipher:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Steam_Cipher_jar</output-path>
+    <root id="archive" name="Steam Cipher.jar">
+      <element id="module-output" name="Steam Cipher" />
+    </root>
+  </artifact>
+</component>
